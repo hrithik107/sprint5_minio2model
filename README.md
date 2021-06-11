@@ -1,0 +1,1 @@
+# sprint5_minio2model
